@@ -16,14 +16,14 @@ function Text(){
                 </ul>
              </div>
             <div className="grid grid-cols-4">
-                <Card source="/images/Main-product-list-3.jpg (1).png" title="black jacket" price="$350.00"/>
-                <Card source="/images/Main-product-list-3.jpg (1).png" title="black jacket" price="$350.00"/>
-                <Card source="/images/Main-product-list-3.jpg (1).png" title="black jacket" price="$350.00"/>
-                <Card source="/images/Main-product-list-3.jpg (1).png" title="black jacket" price="$350.00"/>
-                <Card source="/images/Main-product-list-3.jpg (1).png" title="black jacket" price="$350.00"/>
-                <Card source="/images/Main-product-list-3.jpg (1).png" title="black jacket" price="$350.00"/>
-                <Card source="/images/Main-product-list-3.jpg (1).png" title="black jacket" price="$350.00"/>
-                <Card source="/images/Main-product-list-3.jpg (1).png" title="black jacket" price="$350.00"/>
+                <Card source="/images/Main-product-list-1.jpg.png" title="black jacket" price="$350.00"/>
+                <Card source="/images/Main-product-list-2.jpg.png" title="leather jacket" price="$300.00"/>
+                <Card source="/images/Main-product-list-3.jpg (1).png" title="black outfit" price="$220.00"/>
+                <Card source="/images/Main-product-list-4.jpg.png" title="t-shirt" price="$120.00"/>
+                <Card source="/images/product-new-img-1.jpg.png" title="black vest" price="$85.00"/>
+                <Card source="/images/Main-product-list-2.jpg.png" title="leather jacket" price="$300.00"/>
+                <Card source="/images/Main-product-list-7.jpg.png" title="beige t-shirt" price="$60.00"/>
+                <Card source="/images/Main-product-list-8.jpg.png" title="black hat" price="$45.00"/>
 
             </div>
             

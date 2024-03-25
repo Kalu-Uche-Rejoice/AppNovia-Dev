@@ -23,12 +23,12 @@ function Card(props) {
         </div>
         <div className="table w-full">
             <div className="table-row">
-                <div className="table-cell border-2 border-black">
+                <div className="table-cell border-2 border-black p-3">
                     {props.title}
                     <br></br>
                     {props.price}
                 </div>
-                <div className="table-cell text-center border-2 border-black">
+                <div className="table-cell text-center border-2 border-black p-3">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-4 h-4 inline">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z" />
                     </svg>
@@ -129,8 +129,6 @@ function Card3() {
     }
 
     function Card5(props) {
-        var height = props.height
-        var width = props.width
         var source = props.source
         return(
             <div>

@@ -86,7 +86,7 @@ function Footer() {
                 </div>
             </div>
             <div>
-                <footer className="float-left">&copy{hour} ALL RIGHTS RESERVED</footer>
+                <footer className="float-left">{hour} ALL RIGHTS RESERVED</footer>
                 <div className="float-right">
                  <div className="table mt-4 w-1/2 mx-auto mb-2 text-xs">
                     <div className="table-row">
